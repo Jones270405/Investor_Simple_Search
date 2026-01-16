@@ -82,25 +82,17 @@ The application will run at:
 http://localhost:3000
 ```
 
-```
-
----
-
 ## Example Input
 ```
-
 Sector: FinTech
 Country: USA
-
 ```
 
 ## Example Output
 ```
-
 1. Sequoia Capital – Actively invests in early-stage FinTech startups.
 2. Accel – Strong focus on scalable financial technology companies.
 3. Andreessen Horowitz – Supports innovative fintech platforms globally.
-
 ```
 
 ---
