@@ -103,9 +103,7 @@ Country: USA
 - This project uses a **local LLM via Ollama**, so **no API key is needed**.
 - The backend communicates with Ollama through its local endpoint:
 ```
-
 [http://localhost:11434/api/generate](http://localhost:11434/api/generate)
-
 ```
 
 ---
