@@ -1,0 +1,56 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+}
+
+.container {
+    width: 500px;
+    max-width: 90%;
+    margin: 100px auto;
+    padding: 20px;
+    background: white;
+    border-radius: 8px;
+    text-align: center;
+}
+
+input {
+    width: 90%;
+    padding: 10px;
+    margin: 10px 0;
+}
+
+button {
+    padding: 10px 20px;
+    background: #007bff;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background: #0056b3;
+}
+
+#results {
+    margin-top: 20px;
+    text-align: left;
+    max-height: 300px;          /* prevents very tall overflow */
+    overflow-y: auto;           /* vertical scroll if needed */
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+}
+
+pre {
+    white-space: pre-wrap;      /* WRAPS long text */
+    word-break: break-word;     /* breaks long words */
+    font-size: 14px;
+}
+
+.investor-card {
+    background: #f8f9fa;
+    padding: 10px;
+    margin-bottom: 8px;
+    border-left: 4px solid #007bff;
+    border-radius: 4px;
+    font-size: 14px;
+}
