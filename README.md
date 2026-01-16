@@ -117,5 +117,3 @@ Country: USA
 
 ## License
 This project is for educational and assignment purposes only.
-
-```
